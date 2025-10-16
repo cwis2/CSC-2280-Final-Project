@@ -51,3 +51,4 @@ The program creates a card via `Card(suit, number)` and draws it with `turtle` g
 ## Notes
 - The program expects `.gif` images; ensure the filenames exactly match those listed above and are located in the same directory as `main.py`.
 - Designed for educational purposes and to demonstrate geometric drawing with `turtle`.
+- Code is the same as the submitted work.
